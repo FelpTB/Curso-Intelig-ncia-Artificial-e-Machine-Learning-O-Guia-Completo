@@ -1,0 +1,11 @@
+Componentes de um problema:
+1- Estado inicial
+2- Estado final (objetivo)
+3- Espaço de estados (Estados entre inicial e final)
+4- Ações para passar de um estado para outro
+5- Solução (Caminho que levou do estado inicial para o final)
+
+Heurística:
+Maneira de resolver um problema
+Indicam escolhas que a maquina deve priorizar
+funciona de maneira análoga à brincadeira Quente e frio
